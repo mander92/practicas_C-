@@ -1,0 +1,14 @@
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\bin\Debug\net8.0\practica c#.exe
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\bin\Debug\net8.0\practica c#.deps.json
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\bin\Debug\net8.0\practica c#.runtimeconfig.json
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\bin\Debug\net8.0\practica c#.dll
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\bin\Debug\net8.0\practica c#.pdb
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.AssemblyInfoInputs.cache
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.AssemblyInfo.cs
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.csproj.CoreCompileInputs.cache
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.dll
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\refint\practica c#.dll
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.pdb
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\practica c#.genruntimeconfig.cache
+C:\Users\Mario\OneDrive\Imágenes\Escritorio\c#\practica c#\obj\Debug\net8.0\ref\practica c#.dll
